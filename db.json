@@ -67,7 +67,21 @@
           "musics": 24,
           "playlistUrl": "https://open.spotify.com/playlist/5icqIOkd4QqfAELpfSg7cT?si=ZPwkeRPTS6W3HkIl-OqMEA",
           "author": "Charlie Brau",
-          "source": "https://images.immediate.co.uk/production/volatile/sites/7/2019/10/GettyImages-627248234-78fb0e8.jpg?quality=45&resize=620,413"
+          "source": "https://images.immediate.co.uk/production/volatile/sites/7/2019/10/GettyImages-627248234-78fb0e8.jpg?quality=45&resize=620,413",
+          "recommendedBooks": [
+            {
+              "id": 1,
+              "title": "Lord of the Rings"
+            },
+            {
+              "id": 2,
+              "title": "O nome do vento"
+            },
+            {
+              "id": 3,
+              "title": "A Batalha do Apocalipse"
+            }
+          ]
         },
         {
           "id": 2,
@@ -76,7 +90,21 @@
           "musics": 24,
           "playlistUrl": "https://open.spotify.com/playlist/5icqIOkd4QqfAELpfSg7cT?si=ZPwkeRPTS6W3HkIl-OqMEA",
           "author": "Charlie Brau",
-          "source": "https://images.immediate.co.uk/production/volatile/sites/7/2019/10/GettyImages-627248234-78fb0e8.jpg?quality=45&resize=620,413"
+          "source": "https://images.immediate.co.uk/production/volatile/sites/7/2019/10/GettyImages-627248234-78fb0e8.jpg?quality=45&resize=620,413",
+          "recommendedBooks": [
+            {
+              "id": 1,
+              "title": "Lord of the Rings"
+            },
+            {
+              "id": 2,
+              "title": "O nome do vento"
+            },
+            {
+              "id": 3,
+              "title": "A Batalha do Apocalipse"
+            }
+          ]
         },
         {
           "id": 3,
@@ -85,7 +113,21 @@
           "musics": 24,
           "playlistUrl": "https://open.spotify.com/playlist/5icqIOkd4QqfAELpfSg7cT?si=ZPwkeRPTS6W3HkIl-OqMEA",
           "author": "Charlie Brau",
-          "source": "https://images.immediate.co.uk/production/volatile/sites/7/2019/10/GettyImages-627248234-78fb0e8.jpg?quality=45&resize=620,413"
+          "source": "https://images.immediate.co.uk/production/volatile/sites/7/2019/10/GettyImages-627248234-78fb0e8.jpg?quality=45&resize=620,413",
+          "recommendedBooks": [
+            {
+              "id": 1,
+              "title": "Lord of the Rings"
+            },
+            {
+              "id": 2,
+              "title": "O nome do vento"
+            },
+            {
+              "id": 3,
+              "title": "A Batalha do Apocalipse"
+            }
+          ]
         }
       ]
     },
@@ -100,7 +142,21 @@
           "musics": 24,
           "playlistUrl": "https://open.spotify.com/playlist/5icqIOkd4QqfAELpfSg7cT?si=ZPwkeRPTS6W3HkIl-OqMEA",
           "author": "Charlie Brau",
-          "source": "https://images.immediate.co.uk/production/volatile/sites/7/2019/10/GettyImages-627248234-78fb0e8.jpg?quality=45&resize=620,413"
+          "source": "https://images.immediate.co.uk/production/volatile/sites/7/2019/10/GettyImages-627248234-78fb0e8.jpg?quality=45&resize=620,413",
+          "recommendedBooks": [
+            {
+              "id": 1,
+              "title": "Lord of the Rings"
+            },
+            {
+              "id": 2,
+              "title": "O nome do vento"
+            },
+            {
+              "id": 3,
+              "title": "A Batalha do Apocalipse"
+            }
+          ]
         },
         {
           "id": 2,
@@ -109,7 +165,21 @@
           "musics": 24,
           "playlistUrl": "https://open.spotify.com/playlist/5icqIOkd4QqfAELpfSg7cT?si=ZPwkeRPTS6W3HkIl-OqMEA",
           "author": "Charlie Brau",
-          "source": "https://images.immediate.co.uk/production/volatile/sites/7/2019/10/GettyImages-627248234-78fb0e8.jpg?quality=45&resize=620,413"
+          "source": "https://images.immediate.co.uk/production/volatile/sites/7/2019/10/GettyImages-627248234-78fb0e8.jpg?quality=45&resize=620,413",
+          "recommendedBooks": [
+            {
+              "id": 1,
+              "title": "Lord of the Rings"
+            },
+            {
+              "id": 2,
+              "title": "O nome do vento"
+            },
+            {
+              "id": 3,
+              "title": "A Batalha do Apocalipse"
+            }
+          ]
         },
         {
           "id": 3,
@@ -118,7 +188,21 @@
           "musics": 24,
           "playlistUrl": "https://open.spotify.com/playlist/5icqIOkd4QqfAELpfSg7cT?si=ZPwkeRPTS6W3HkIl-OqMEA",
           "author": "Charlie Brau",
-          "source": "https://images.immediate.co.uk/production/volatile/sites/7/2019/10/GettyImages-627248234-78fb0e8.jpg?quality=45&resize=620,413"
+          "source": "https://images.immediate.co.uk/production/volatile/sites/7/2019/10/GettyImages-627248234-78fb0e8.jpg?quality=45&resize=620,413",
+          "recommendedBooks": [
+            {
+              "id": 1,
+              "title": "Lord of the Rings"
+            },
+            {
+              "id": 2,
+              "title": "O nome do vento"
+            },
+            {
+              "id": 3,
+              "title": "A Batalha do Apocalipse"
+            }
+          ]
         }
       ]
     },
@@ -133,7 +217,21 @@
           "musics": 24,
           "playlistUrl": "https://open.spotify.com/playlist/5icqIOkd4QqfAELpfSg7cT?si=ZPwkeRPTS6W3HkIl-OqMEA",
           "author": "Charlie Brau",
-          "source": "https://images.immediate.co.uk/production/volatile/sites/7/2019/10/GettyImages-627248234-78fb0e8.jpg?quality=45&resize=620,413"
+          "source": "https://images.immediate.co.uk/production/volatile/sites/7/2019/10/GettyImages-627248234-78fb0e8.jpg?quality=45&resize=620,413",
+          "recommendedBooks": [
+            {
+              "id": 1,
+              "title": "Lord of the Rings"
+            },
+            {
+              "id": 2,
+              "title": "O nome do vento"
+            },
+            {
+              "id": 3,
+              "title": "A Batalha do Apocalipse"
+            }
+          ]
         },
         {
           "id": 2,
@@ -142,7 +240,21 @@
           "musics": 24,
           "playlistUrl": "https://open.spotify.com/playlist/5icqIOkd4QqfAELpfSg7cT?si=ZPwkeRPTS6W3HkIl-OqMEA",
           "author": "Charlie Brau",
-          "source": "https://images.immediate.co.uk/production/volatile/sites/7/2019/10/GettyImages-627248234-78fb0e8.jpg?quality=45&resize=620,413"
+          "source": "https://images.immediate.co.uk/production/volatile/sites/7/2019/10/GettyImages-627248234-78fb0e8.jpg?quality=45&resize=620,413",
+          "recommendedBooks": [
+            {
+              "id": 1,
+              "title": "Lord of the Rings"
+            },
+            {
+              "id": 2,
+              "title": "O nome do vento"
+            },
+            {
+              "id": 3,
+              "title": "A Batalha do Apocalipse"
+            }
+          ]
         },
         {
           "id": 3,
@@ -151,7 +263,21 @@
           "musics": 24,
           "playlistUrl": "https://open.spotify.com/playlist/5icqIOkd4QqfAELpfSg7cT?si=ZPwkeRPTS6W3HkIl-OqMEA",
           "author": "Charlie Brau",
-          "source": "https://images.immediate.co.uk/production/volatile/sites/7/2019/10/GettyImages-627248234-78fb0e8.jpg?quality=45&resize=620,413"
+          "source": "https://images.immediate.co.uk/production/volatile/sites/7/2019/10/GettyImages-627248234-78fb0e8.jpg?quality=45&resize=620,413",
+          "recommendedBooks": [
+            {
+              "id": 1,
+              "title": "Lord of the Rings"
+            },
+            {
+              "id": 2,
+              "title": "O nome do vento"
+            },
+            {
+              "id": 3,
+              "title": "A Batalha do Apocalipse"
+            }
+          ]
         }
       ]
     }
