@@ -54,5 +54,88 @@
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum congue, eros finibus lacinia iaculis",
       "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRJ4rf4yY--Vz3hUodpbn3x9nhPq8XiDJ6O1A&usqp=CAU"
     }
+  ],
+  "category": [
+    {
+      "id": 1,
+      "title": "Fantasia",
+      "playlists": [
+        {
+          "id": 1,
+          "title": "Ancient Times",
+          "votes": 8,
+          "musics": 24,
+          "playlistUrl": "https://open.spotify.com/playlist/5icqIOkd4QqfAELpfSg7cT?si=ZPwkeRPTS6W3HkIl-OqMEA"
+        },
+        {
+          "id": 2,
+          "title": "Ancient Times",
+          "votes": 8,
+          "musics": 24,
+          "playlistUrl": "https://open.spotify.com/playlist/5icqIOkd4QqfAELpfSg7cT?si=ZPwkeRPTS6W3HkIl-OqMEA"
+        },
+        {
+          "id": 3,
+          "title": "Ancient Times",
+          "votes": 8,
+          "musics": 24,
+          "playlistUrl": "https://open.spotify.com/playlist/5icqIOkd4QqfAELpfSg7cT?si=ZPwkeRPTS6W3HkIl-OqMEA"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Ação/Aventura",
+      "playlists": [
+        {
+          "id": 1,
+          "title": "Ancient Times",
+          "votes": 8,
+          "musics": 24,
+          "playlistUrl": "https://open.spotify.com/playlist/5icqIOkd4QqfAELpfSg7cT?si=ZPwkeRPTS6W3HkIl-OqMEA"
+        },
+        {
+          "id": 2,
+          "title": "Ancient Times",
+          "votes": 8,
+          "musics": 24,
+          "playlistUrl": "https://open.spotify.com/playlist/5icqIOkd4QqfAELpfSg7cT?si=ZPwkeRPTS6W3HkIl-OqMEA"
+        },
+        {
+          "id": 3,
+          "title": "Ancient Times",
+          "votes": 8,
+          "musics": 24,
+          "playlistUrl": "https://open.spotify.com/playlist/5icqIOkd4QqfAELpfSg7cT?si=ZPwkeRPTS6W3HkIl-OqMEA"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Ficção científica",
+      "playlists": [
+        {
+          "id": 1,
+          "title": "Ancient Times",
+          "votes": 8,
+          "musics": 24,
+          "playlistUrl": "https://open.spotify.com/playlist/5icqIOkd4QqfAELpfSg7cT?si=ZPwkeRPTS6W3HkIl-OqMEA"
+        },
+        {
+          "id": 2,
+          "title": "Ancient Times",
+          "votes": 8,
+          "musics": 24,
+          "playlistUrl": "https://open.spotify.com/playlist/5icqIOkd4QqfAELpfSg7cT?si=ZPwkeRPTS6W3HkIl-OqMEA"
+        },
+        {
+          "id": 3,
+          "title": "Ancient Times",
+          "votes": 8,
+          "musics": 24,
+          "playlistUrl": "https://open.spotify.com/playlist/5icqIOkd4QqfAELpfSg7cT?si=ZPwkeRPTS6W3HkIl-OqMEA"
+        }
+      ]
+    }
   ]
 }
