@@ -1,14 +1,58 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  "dashboard": [
+    {
+      "id": 1,
+      "title": "Fantasia",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum congue, eros finibus lacinia iaculis",
+      "source": "https://wallpaperaccess.com/full/1403493.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Ação/Aventura",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum congue, eros finibus lacinia iaculis",
+      "source": "https://images3.alphacoders.com/270/thumb-1920-270459.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Ficção científica",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum congue, eros finibus lacinia iaculis",
+      "source": "https://i.pinimg.com/originals/8a/fb/77/8afb775b718230dde2d09d5323cdfcb0.jpg"
+    },
+    {
+      "id": 4,
+      "title": "Romance",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum congue, eros finibus lacinia iaculis",
+      "source": "https://cdn.hipwallpaper.com/i/90/11/PJytu0.jpg"
+    },
+    {
+      "id": 5,
+      "title": "Histórico",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum congue, eros finibus lacinia iaculis",
+      "source": "https://images2.alphacoders.com/659/thumb-1920-659390.jpg"
+    },
+    {
+      "id": 6,
+      "title": "Espiritualidade",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum congue, eros finibus lacinia iaculis",
+      "source": "https://images.unsplash.com/photo-1482164565953-04b62dcac1cd?ixlib=rb-1.2.1&w=1000&q=80"
+    },
+    {
+      "id": 7,
+      "title": "Drama",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum congue, eros finibus lacinia iaculis",
+      "source": "https://images.squarespace-cdn.com/content/v1/5572e6e3e4b013344d656d71/1445598244232-EL6VINF1D8O2NB8XD9OJ/ke17ZwdGBToddI8pDm48kCPztTQZpDiZMOuuCfUxiyx7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z5QPOohDIaIeljMHgDF5CVlOqpeNLcJ80NK65_fV7S1UYlQ-m0oNUh_9buvyC-f1CSdhG_dNlqULB2ZTz-ses64A-QPhXXvNcU0N8wN7BGx0g/mask.jpg?format=1500w"
+    },
+    {
+      "id": 8,
+      "title": "Biografia",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum congue, eros finibus lacinia iaculis",
+      "source": "https://wallpaperaccess.com/full/2728412.jpg"
+    },
+    {
+      "id": 9,
+      "title": "Terror/Horror",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum congue, eros finibus lacinia iaculis",
+      "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRJ4rf4yY--Vz3hUodpbn3x9nhPq8XiDJ6O1A&usqp=CAU"
+    }
+  ]
 }
