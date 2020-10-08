@@ -57,18 +57,20 @@
   ],
   "category": [
   {
-    "id": 1,
-    "title": "Fantasia",
+    "id": 3,
+    "title": "Sciencie fiction movie track",
     "playlists": [
       {
         "id": 1,
-        "title": "Ancient Times",
+        "name": "Ancient Times",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum congue, eros finibus lacinia iaculis",
+        "category": "science_fiction",
         "votes": 8,
         "musics": 24,
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum congue, eros finibus lacinia iaculis",
-        "playlistUrl": "https://open.spotify.com/playlist/5icqIOkd4QqfAELpfSg7cT?si=ZPwkeRPTS6W3HkIl-OqMEA",
-        "author": "Charlie Brau",
-        "source": "https://i.scdn.co/image/ab67706c0000bebb1c27462d78fed32805deb5dc",
+        "playlistUrl": "https://open.spotify.com/playlist/5Ada0mTANGxul1teOYaxj2?si=zghi9RfGTTSEdkOGInTNdw",
+        "owner" : "@edgarpansu",
+        "author": "@everaldo",
+        "imgSource": "https://mosaic.scdn.co/640/ab67616d0000b27300a86f72f75086f7fb441899ab67616d0000b27397736d088633e70506e15251ab67616d0000b2739ccdbb2b52240c4c500cac4cab67616d0000b273c61bb5ace8865e29e02baaa3",
         "recommendedBooks": [
           {
             "id": 1,
