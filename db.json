@@ -58,12 +58,12 @@
   "category": [
   {
     "id": 3,
-    "title": "Sciencie fiction movie track",
+    "title": "Ficção científica",
     "playlists": [
       {
         "id": 1,
-        "name": "Ancient Times",
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum congue, eros finibus lacinia iaculis",
+        "name": "Sciencie fiction movie track",
+        "description": "Best inspiring music themes",
         "category": "science_fiction",
         "votes": 8,
         "musics": 24,
