@@ -85,6 +85,32 @@
             "title": "A Batalha do Apocalipse"
           }
         ]
+      },
+            {
+        "id": 2,
+        "name": "O guia do mochileiro das galáxias",
+        "description": "Essa playlist",
+        "category": "science_fiction",
+        "votes": 8,
+        "musics": 24,
+        "playlistUrl": "https://open.spotify.com/playlist/0lNLPgi04vnAspB5LOvTyK?si=s1AFlzL_Qw6SfYcxz73ZBA",
+        "owner" : "Chris Larkin",
+        "author": "@everaldo",
+        "imgSource": "https://img.discogs.com/NLoWY0XUEPNiEITJ-xO30xgUHdg=/fit-in/600x623/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-13433019-1554114672-5693.jpeg.jpg",
+        "recommendedBooks": [
+          {
+            "id": 1,
+            "title": "Lord of the Rings"
+          },
+          {
+            "id": 2,
+            "title": "O nome do vento"
+          },
+          {
+            "id": 3,
+            "title": "A Batalha do Apocalipse"
+          }
+        ]
       }
     ]
   }
