@@ -74,16 +74,12 @@
         "recommendedBooks": [
           {
             "id": 1,
-            "title": "Lord of the Rings"
+            "bookId": 43456011,
+            "author": "Flavio Augusto da Silva",
+            "averageRating": "4.53",
+            "title": "Lord of the Rings",
+            "bookCoverUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1546548798l/43456011._SX98_.jpg"
           },
-          {
-            "id": 2,
-            "title": "O nome do vento"
-          },
-          {
-            "id": 3,
-            "title": "A Batalha do Apocalipse"
-          }
         ]
       },
             {
