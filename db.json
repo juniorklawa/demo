@@ -1,115 +1,108 @@
 {
-  "dashboard": [
-    {
-      "id": 1,
-      "title": "Fantasia",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum congue, eros finibus lacinia iaculis",
-      "source": "https://wallpaperaccess.com/full/1403493.jpg"
-    },
-    {
-      "id": 2,
-      "title": "Ação/Aventura",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum congue, eros finibus lacinia iaculis",
-      "source": "https://images3.alphacoders.com/270/thumb-1920-270459.jpg"
-    },
-    {
-      "id": 3,
-      "title": "Ficção científica",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum congue, eros finibus lacinia iaculis",
-      "source": "https://i.pinimg.com/originals/8a/fb/77/8afb775b718230dde2d09d5323cdfcb0.jpg"
-    },
-    {
-      "id": 4,
-      "title": "Romance",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum congue, eros finibus lacinia iaculis",
-      "source": "https://cdn.hipwallpaper.com/i/90/11/PJytu0.jpg"
-    },
-    {
-      "id": 5,
-      "title": "Histórico",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum congue, eros finibus lacinia iaculis",
-      "source": "https://images2.alphacoders.com/659/thumb-1920-659390.jpg"
-    },
-    {
-      "id": 6,
-      "title": "Espiritualidade",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum congue, eros finibus lacinia iaculis",
-      "source": "https://images.unsplash.com/photo-1482164565953-04b62dcac1cd?ixlib=rb-1.2.1&w=1000&q=80"
-    },
-    {
-      "id": 7,
-      "title": "Drama",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum congue, eros finibus lacinia iaculis",
-      "source": "https://images.squarespace-cdn.com/content/v1/5572e6e3e4b013344d656d71/1445598244232-EL6VINF1D8O2NB8XD9OJ/ke17ZwdGBToddI8pDm48kCPztTQZpDiZMOuuCfUxiyx7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z5QPOohDIaIeljMHgDF5CVlOqpeNLcJ80NK65_fV7S1UYlQ-m0oNUh_9buvyC-f1CSdhG_dNlqULB2ZTz-ses64A-QPhXXvNcU0N8wN7BGx0g/mask.jpg?format=1500w"
-    },
-    {
-      "id": 8,
-      "title": "Biografia",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum congue, eros finibus lacinia iaculis",
-      "source": "https://wallpaperaccess.com/full/2728412.jpg"
-    },
-    {
-      "id": 9,
-      "title": "Terror/Horror",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum congue, eros finibus lacinia iaculis",
-      "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRJ4rf4yY--Vz3hUodpbn3x9nhPq8XiDJ6O1A&usqp=CAU"
-    }
-  ],
-  "category": [
-  {
-    "id": 3,
-    "title": "Ficção científica",
-    "playlists": [
-      {
-        "id": 1,
-        "name": "Sciencie fiction movie track",
-        "description": "Best inspiring music themes",
-        "category": "science_fiction",
-        "votes": 8,
-        "musics": 24,
-        "playlistUrl": "https://open.spotify.com/playlist/5Ada0mTANGxul1teOYaxj2?si=zghi9RfGTTSEdkOGInTNdw",
-        "owner" : "@edgarpansu",
-        "author": "@everaldo",
-        "imgSource": "https://mosaic.scdn.co/640/ab67616d0000b27300a86f72f75086f7fb441899ab67616d0000b27397736d088633e70506e15251ab67616d0000b2739ccdbb2b52240c4c500cac4cab67616d0000b273c61bb5ace8865e29e02baaa3",
-        "recommendedBooks": [
-          {
-            "id": 1,
-            "bookId": 43456011,
-            "author": "Flavio Augusto da Silva",
-            "averageRating": "4.53",
-            "title": "Lord of the Rings",
-            "bookCoverUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1546548798l/43456011._SX98_.jpg"
-          },
-        ]
-      },
-            {
-        "id": 2,
-        "name": "O guia do mochileiro das galáxias",
-        "description": "Essa playlist",
-        "category": "science_fiction",
-        "votes": 8,
-        "musics": 24,
-        "playlistUrl": "https://open.spotify.com/playlist/0lNLPgi04vnAspB5LOvTyK?si=s1AFlzL_Qw6SfYcxz73ZBA",
-        "owner" : "Chris Larkin",
-        "author": "@everaldo",
-        "imgSource": "https://img.discogs.com/NLoWY0XUEPNiEITJ-xO30xgUHdg=/fit-in/600x623/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-13433019-1554114672-5693.jpeg.jpg",
-        "recommendedBooks": [
-          {
-            "id": 1,
-            "title": "Lord of the Rings"
-          },
-          {
-            "id": 2,
-            "title": "O nome do vento"
-          },
-          {
-            "id": 3,
-            "title": "A Batalha do Apocalipse"
-          }
-        ]
-      }
-    ]
-  }
-]
+	"dashboard": [{
+			"id": 1,
+			"title": "Fantasia",
+			"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum congue, eros finibus lacinia iaculis",
+			"source": "https://wallpaperaccess.com/full/1403493.jpg"
+		},
+		{
+			"id": 2,
+			"title": "Ação/Aventura",
+			"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum congue, eros finibus lacinia iaculis",
+			"source": "https://images3.alphacoders.com/270/thumb-1920-270459.jpg"
+		},
+		{
+			"id": 3,
+			"title": "Ficção científica",
+			"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum congue, eros finibus lacinia iaculis",
+			"source": "https://i.pinimg.com/originals/8a/fb/77/8afb775b718230dde2d09d5323cdfcb0.jpg"
+		},
+		{
+			"id": 4,
+			"title": "Romance",
+			"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum congue, eros finibus lacinia iaculis",
+			"source": "https://cdn.hipwallpaper.com/i/90/11/PJytu0.jpg"
+		},
+		{
+			"id": 5,
+			"title": "Histórico",
+			"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum congue, eros finibus lacinia iaculis",
+			"source": "https://images2.alphacoders.com/659/thumb-1920-659390.jpg"
+		},
+		{
+			"id": 6,
+			"title": "Espiritualidade",
+			"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum congue, eros finibus lacinia iaculis",
+			"source": "https://images.unsplash.com/photo-1482164565953-04b62dcac1cd?ixlib=rb-1.2.1&w=1000&q=80"
+		},
+		{
+			"id": 7,
+			"title": "Drama",
+			"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum congue, eros finibus lacinia iaculis",
+			"source": "https://images.squarespace-cdn.com/content/v1/5572e6e3e4b013344d656d71/1445598244232-EL6VINF1D8O2NB8XD9OJ/ke17ZwdGBToddI8pDm48kCPztTQZpDiZMOuuCfUxiyx7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z5QPOohDIaIeljMHgDF5CVlOqpeNLcJ80NK65_fV7S1UYlQ-m0oNUh_9buvyC-f1CSdhG_dNlqULB2ZTz-ses64A-QPhXXvNcU0N8wN7BGx0g/mask.jpg?format=1500w"
+		},
+		{
+			"id": 8,
+			"title": "Biografia",
+			"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum congue, eros finibus lacinia iaculis",
+			"source": "https://wallpaperaccess.com/full/2728412.jpg"
+		},
+		{
+			"id": 9,
+			"title": "Terror/Horror",
+			"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum congue, eros finibus lacinia iaculis",
+			"source": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRJ4rf4yY--Vz3hUodpbn3x9nhPq8XiDJ6O1A&usqp=CAU"
+		}
+	],
+	"category": [{
+		"id": 3,
+		"title": "Ficção científica",
+		"playlists": [{
+				"id": 1,
+				"name": "Sciencie fiction movie track",
+				"description": "Best inspiring music themes",
+				"category": "science_fiction",
+				"votes": 8,
+				"musics": 24,
+				"playlistUrl": "https://open.spotify.com/playlist/5Ada0mTANGxul1teOYaxj2?si=zghi9RfGTTSEdkOGInTNdw",
+				"owner": "@edgarpansu",
+				"author": "@everaldo",
+				"imgSource": "https://mosaic.scdn.co/640/ab67616d0000b27300a86f72f75086f7fb441899ab67616d0000b27397736d088633e70506e15251ab67616d0000b2739ccdbb2b52240c4c500cac4cab67616d0000b273c61bb5ace8865e29e02baaa3",
+				"recommendedBooks": [{
+					"id": 1,
+					"bookId": 43456011,
+					"author": "Flavio Augusto da Silva",
+					"averageRating": "4.53",
+					"title": "Lord of the Rings",
+					"bookCoverUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1546548798l/43456011._SX98_.jpg"
+				}]
+			},
+			{
+				"id": 2,
+				"name": "O guia do mochileiro das galáxias",
+				"description": "Essa playlist",
+				"category": "science_fiction",
+				"votes": 8,
+				"musics": 24,
+				"playlistUrl": "https://open.spotify.com/playlist/0lNLPgi04vnAspB5LOvTyK?si=s1AFlzL_Qw6SfYcxz73ZBA",
+				"owner": "Chris Larkin",
+				"author": "@everaldo",
+				"imgSource": "https://img.discogs.com/NLoWY0XUEPNiEITJ-xO30xgUHdg=/fit-in/600x623/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-13433019-1554114672-5693.jpeg.jpg",
+				"recommendedBooks": [{
+						"id": 1,
+						"title": "Lord of the Rings"
+					},
+					{
+						"id": 2,
+						"title": "O nome do vento"
+					},
+					{
+						"id": 3,
+						"title": "A Batalha do Apocalipse"
+					}
+				]
+			}
+		]
+	}]
 
 }
